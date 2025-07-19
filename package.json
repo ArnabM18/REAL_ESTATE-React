@@ -1,9 +1,10 @@
 {
-  "homepage": "https://arnabm18.github.io/REAL_ESTATE-React",
+  
   "name": "real-estate",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://arnabm18.github.io/REAL_ESTATE-React",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
